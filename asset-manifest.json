@@ -15,7 +15,7 @@
     "main.f351bb7b.js.map": "/brt-route/static/js/main.f351bb7b.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d5f8066.css",
-    "static/js/main.f351bb7b.js"
+    "/brt-route/static/css/main.3d5f8066.css",
+    "/brt-route/static/js/main.f351bb7b.js"
   ]
 }
